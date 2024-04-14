@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+
+header {
+    
+    background-image: url(assets/banner-topo.jpg);
+    background-position: center;
+}
