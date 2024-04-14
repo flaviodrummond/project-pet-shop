@@ -10,4 +10,100 @@ header {
     
     background-image: url(assets/banner-topo.jpg);
     background-position: center;
+    background-size: cover;
+    width: 100%;
+    padding: 120px 80px;
+
+}
+
+.top {
+
+    max-width: 250px;
+    color: #3c184e;
+
+}
+
+.banner {
+
+    font-size: 35px;
+    margin: 0 0 5px 0;
+    font-weight: bold;
+
+}
+
+p img {
+
+    width: 30px;
+    margin-right: 5px;
+}
+
+.title {
+
+    font-size: 14px;
+    text-align: center;
+    margin: 0;
+
+} 
+
+
+.center {
+
+    max-width: 1024px;
+    border-radius: 10px;
+    padding: 40px;
+    margin: 70px auto 0 auto;
+    
+    background-color: #ffffffc4;
+    box-shadow: 0 8px 32px #1f26875e;
+
+}
+
+h1 {
+
+    font-size: 60px;
+    color: #3c184e;
+    text-align: center;
+    font-weight: 800;
+    margin:  0 0 40px 0;
+
+}
+
+.whatsapp {
+
+    width: 200px;
+    padding: 10px 25px;
+    margin: 0 auto;
+    border-radius: 10px;
+    background-color: #3c184e;
+    font-size: 18px;
+    text-align: center;
+
+}
+
+.whatsapp a {
+
+    color: #ffff;
+
+}
+
+.whatsapp img {
+
+    width: 20px;
+
+}
+
+section {
+
+    width: 100%;
+    padding: 120px 80px;
+
+}
+
+h3 {
+
+    font-size: 36px;
+    color: #3c184e;
+    text-align: center;
+    margin:  0 0 45px 0;
+
 }
